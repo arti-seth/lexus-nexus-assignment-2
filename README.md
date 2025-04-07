@@ -88,7 +88,7 @@ The main feature file `job_search.feature` includes a scenario that:
 2. Handles any cookie consent popups
 3. Navigates to the Careers page via the About Us menu
 4. Clicks on the "Search all jobs" link
-5. Searches for "automation tester" positions
+5. Searches for "automation tester" positions  #updated finance as 0 results found for automation tester
 6. Verifies that at least one search result is displayed
 
 ## Test Reports
